@@ -1,0 +1,14 @@
+To get the token we have to go to Network
+
+user
+Right click 
+inspect
+network
+refresh 
+
+
+after accept Language
+
+ you will see Authorization code  copy it
+
+do not copy comment type
